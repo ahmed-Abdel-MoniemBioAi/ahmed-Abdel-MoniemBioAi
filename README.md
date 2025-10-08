@@ -1,83 +1,64 @@
-<!-- Ahmed Abdel_Moniem - Professional GitHub Profile -->
+## Hey 👋, I'm Ahmed Abdel_Moniem!
+<a href='https://www.linkedin.com/in/ahmed-abdel-moniem/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<a href='https://www.kaggle.com/'><img align='left' alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
+<a href='mailto:ahmed.abdelmoniem@example.com'><img align='left' alt="mail" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" height='18px'/></a>
 
-<h1 align="center">👋 Hey, I'm <span style="color:#0ea5a4;">Ahmed Abdel_Moniem</span></h1>
-<h3 align="center">💻 Computer Science & AI Student | Data Analyst | Developer</h3>
+<br/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ahmed-abdelmoniem" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://x.com/Ahmed_Abdel_Moniem" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-  <a href="https://www.kaggle.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-  </a>
-</p>
+🎓 I’m a **Computer and Artificial Intelligence student** who is passionate about **Programming, Data Analysis, and AI Systems Development**.  
+💻 I’m currently learning **Data Structures, Algorithms, Databases, Software Engineering, Networks, and Information Systems**.  
+📊 I also work as a **freelance Data Analyst**, creating **interactive Dashboards with Power BI** and extracting valuable insights from raw data.  
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 ---
 
-## 🧠 About Me  
-🎓 Computer Science & Artificial Intelligence student passionate about **data analysis, software development, and AI systems**.  
-📊 I love turning raw data into clear insights with **Power BI** and **Python**.  
-💡 Always learning something new — currently improving in **C++**, **SQL**, and **Machine Learning**.
+### 🧠 About Me
+- 🌱 I’m currently learning: **Data Structures, Algorithms, and AI Fundamentals**  
+- 💼 Working on: **Building professional dashboards & data insights reports using Power BI**  
+- 🤖 Interested in: **Machine Learning, Data Visualization, and Intelligent Systems**  
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/ahmed-abdel-moniem/)  
+- ⚡ Fun fact: I love turning raw data into stories that drive smart decisions!
 
 ---
 
-## 🔧 Languages & Tools
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="48" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="48" alt="SQL" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="48" alt="Power BI" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282019–present%29.svg" height="48" alt="Excel" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/PowerQuery_Logo.svg" height="48" alt="Power Query" />
-</p>
+### 🛠️ Languages and Tools I’m Learning & Using:
+<a href="https://www.python.org/" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></a>
+<a href="https://powerbi.microsoft.com/" target="_blank"><img align="left" alt="Power BI" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"/></a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img align="left" alt="SQL" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/></a>
+<a href="https://www.w3schools.com/cpp/" target="_blank"><img align="left" alt="C++" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/></a>
+<a href="https://www.java.com/" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/></a>
+<a href="https://www.w3schools.com/html/" target="_blank"><img align="left" alt="HTML5" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/></a>
+<a href="https://git-scm.com/" target="_blank"><img align="left" alt="Git" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/></a>
+<a href="https://www.linux.org/" target="_blank"><img align="left" alt="Linux" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/></a>
+<a href="https://www.figma.com/" target="_blank"><img align="left" alt="Figma" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"/></a>
+
+<br/>
+<br/>
+<br/>
 
 ---
 
-## 🚀 Skills Overview (Animated)
+### 📊 GitHub Stats
+<a href='https://github.com/anuraghazra/github-readme-stats'>
+  
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-AbdelMoniem&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-AbdelMoniem&layout=compact&theme=tokyonight)
 
-<p align="center">
-  <img src="./assets/skill-bars.svg" alt="Animated Skill Bars" width="700"/>
-</p>
+</a>
 
-> 💡 ملاحظة: لتفعيل الشريط المتحرك، أنشئ ملفًا باسم `assets/skill-bars.svg` في نفس المستودع،  
-> وضع فيه الكود التالي:
+---
 
-```xml
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="160">
-  <style>
-    .label { font: 14px sans-serif; fill:#333; }
-    .bar-bg { fill:#e6e6e6; rx:6; ry:6; }
-    .bar-fill { fill:#0ea5a4; rx:6; ry:6; }
-  </style>
+### 🚀 Current Goals
+- 🧩 Strengthen problem-solving skills through **Data Structures & Algorithms**
+- 📚 Learn and build small projects in **AI & Machine Learning**
+- 📈 Create data-driven dashboards that tell meaningful stories
+- 🤝 Collaborate on **open-source projects** to grow my skills
 
-  <!-- Python -->
-  <text x="12" y="24" class="label">Python</text>
-  <rect x="120" y="8" width="580" height="24" class="bar-bg"/>
-  <rect x="120" y="8" width="0" height="24" class="bar-fill">
-    <animate attributeName="width" from="0" to="510" dur="1.4s" fill="freeze" />
-  </rect>
+---
 
-  <!-- C++ -->
-  <text x="12" y="64" class="label">C++</text>
-  <rect x="120" y="48" width="580" height="24" class="bar-bg"/>
-  <rect x="120" y="48" width="0" height="24" class="bar-fill">
-    <animate attributeName="width" from="0" to="460" dur="1.5s" fill="freeze" />
-  </rect>
+### 💡 Quote I Believe In:
+> “Data is not just numbers — it’s the voice of reality waiting to be understood.”  
+> — Ahmed Abdel_Moniem
 
-  <!-- SQL -->
-  <text x="12" y="104" class="label">SQL / Databases</text>
-  <rect x="160" y="88" width="540" height="24" class="bar-bg"/>
-  <rect x="160" y="88" width="0" height="24" class="bar-fill">
-    <animate attributeName="width" from="0" to="470" dur="1.6s" fill="freeze" />
-  </rect>
-
-  <!-- Power BI -->
-  <text x="12" y="144" class="label">Power BI & Excel</text>
-  <rect x="180" y="128" width="520" height="24" class="bar-bg"/>
-  <rect x="180" y="128" width="0" height="24" class="bar-fill">
-    <animate attributeName="width" from="0" to="460" dur="1.8s" fill="freeze" />
-  </rect>
-</svg>
+---
