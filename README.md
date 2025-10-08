@@ -1,68 +1,83 @@
-## Hey 👋, I'm Ahmed Abdel_Moniem!
+<!-- Ahmed Abdel_Moniem - Professional GitHub Profile -->
 
-<a href='https://www.linkedin.com/in/ahmed-abdelmoniem' target='_blank'><img align='left' alt="LinkedIn" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://x.com/Ahmed_Abdel_Moniem' target='_blank'><img align='left' alt="Twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
-<a href='https://www.kaggle.com/' target='_blank'><img alt="Kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
+<h1 align="center">👋 Hey, I'm <span style="color:#0ea5a4;">Ahmed Abdel_Moniem</span></h1>
+<h3 align="center">💻 Computer Science & AI Student | Data Analyst | Developer</h3>
 
-<br/>
-
-💡 I'm a **Computer Science and AI student** passionate about **Data Analysis, Programming, and Artificial Intelligence**.  
-I enjoy turning data into insights 📊, building intelligent systems 🤖, and learning new technologies every day.  
-
-Currently, I'm working as a **freelance data analyst**, creating **interactive dashboards using Power BI**, and continuously improving my technical and analytical skills.
-
-<br/>
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-
-### 🧠 What I'm Learning Now:
-- Data Structures and Algorithms  
-- Databases and SQL  
-- Software Engineering Principles  
-- Computer Networks  
-- Information Systems  
-- Artificial Intelligence and Machine Learning  
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmed-abdelmoniem" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/Ahmed_Abdel_Moniem" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="https://www.kaggle.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-### 🚀 A bit more about me:
-- 🎓 I'm a student at the **Faculty of Computers and Artificial Intelligence**.  
-- 💻 I love working with data and discovering patterns that tell a story.  
-- 🧩 Currently exploring **data visualization** and **AI-powered analytics**.  
-- 🛠 I aim to build smart, data-driven systems that make life easier.  
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/ahmed-abdelmoniem).  
-- 💬 Always open to collaboration on interesting **AI or data projects**.  
+## 🧠 About Me  
+🎓 Computer Science & Artificial Intelligence student passionate about **data analysis, software development, and AI systems**.  
+📊 I love turning raw data into clear insights with **Power BI** and **Python**.  
+💡 Always learning something new — currently improving in **C++**, **SQL**, and **Machine Learning**.
 
 ---
 
-### 🧰 Languages and Tools I Use:
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://powerbi.microsoft.com/" target="_blank"><img align="left" alt="Power BI" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg"></a>
-<a href="https://www.mysql.com/" target="_blank"><img align="left" alt="MySQL" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></a>
-<a href="https://git-scm.com/" target="_blank"><img align="left" alt="Git" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg"></a>
-<a href="https://jupyter.org/" target="_blank"><img align="left" alt="Jupyter Notebook" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg"></a>
-<a href="https://www.w3schools.com/sql/" target="_blank"><img align="left" alt="SQL" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"></a>
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img align="left" alt="Excel" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg"></a>
-
-<br/><br/><br/>
-
----
-
-### 📊 GitHub Stats:
-<a href='https://github.com/anuraghazra/github-readme-stats'>
-  
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedAbdelMoniem&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAbdelMoniem&layout=compact&theme=tokyonight)
-
-</a>
+## 🔧 Languages & Tools
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="48" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="48" alt="SQL" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="48" alt="Power BI" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282019–present%29.svg" height="48" alt="Excel" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/PowerQuery_Logo.svg" height="48" alt="Power Query" />
+</p>
 
 ---
 
-### 🌱 My Current Focus:
-> "Learning deeply, building consistently, and growing steadily."
+## 🚀 Skills Overview (Animated)
 
-📈 My goal: **To become a skilled Data Analyst and AI Developer** who can turn information into meaningful insights and intelligent applications.
+<p align="center">
+  <img src="./assets/skill-bars.svg" alt="Animated Skill Bars" width="700"/>
+</p>
 
----
+> 💡 ملاحظة: لتفعيل الشريط المتحرك، أنشئ ملفًا باسم `assets/skill-bars.svg` في نفس المستودع،  
+> وضع فيه الكود التالي:
 
-⭐️ From [Ahmed Abdel_Moniem](https://github.com/AhmedAbdelMoniem)
+```xml
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="160">
+  <style>
+    .label { font: 14px sans-serif; fill:#333; }
+    .bar-bg { fill:#e6e6e6; rx:6; ry:6; }
+    .bar-fill { fill:#0ea5a4; rx:6; ry:6; }
+  </style>
+
+  <!-- Python -->
+  <text x="12" y="24" class="label">Python</text>
+  <rect x="120" y="8" width="580" height="24" class="bar-bg"/>
+  <rect x="120" y="8" width="0" height="24" class="bar-fill">
+    <animate attributeName="width" from="0" to="510" dur="1.4s" fill="freeze" />
+  </rect>
+
+  <!-- C++ -->
+  <text x="12" y="64" class="label">C++</text>
+  <rect x="120" y="48" width="580" height="24" class="bar-bg"/>
+  <rect x="120" y="48" width="0" height="24" class="bar-fill">
+    <animate attributeName="width" from="0" to="460" dur="1.5s" fill="freeze" />
+  </rect>
+
+  <!-- SQL -->
+  <text x="12" y="104" class="label">SQL / Databases</text>
+  <rect x="160" y="88" width="540" height="24" class="bar-bg"/>
+  <rect x="160" y="88" width="0" height="24" class="bar-fill">
+    <animate attributeName="width" from="0" to="470" dur="1.6s" fill="freeze" />
+  </rect>
+
+  <!-- Power BI -->
+  <text x="12" y="144" class="label">Power BI & Excel</text>
+  <rect x="180" y="128" width="520" height="24" class="bar-bg"/>
+  <rect x="180" y="128" width="0" height="24" class="bar-fill">
+    <animate attributeName="width" from="0" to="460" dur="1.8s" fill="freeze" />
+  </rect>
+</svg>
